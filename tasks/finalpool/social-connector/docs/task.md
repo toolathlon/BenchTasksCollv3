@@ -2,5 +2,3 @@
 
 ## Description
 Complete the implementation for social-connector
-
-
