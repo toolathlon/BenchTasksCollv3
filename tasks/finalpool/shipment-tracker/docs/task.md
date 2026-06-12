@@ -1,7 +1,4 @@
-# Task
-
-## Name
-shipment-tracker
+# Task: shipment-tracker
 
 ## Description
-Realtime shipment tracking task.
+Complete the implementation for shipment-tracker

@@ -1,2 +1,2 @@
-def preprocess():
-    print("Pre-processing expense-tracker initial states")
+# Preprocessing script
+print('Preprocessing completed')

@@ -1,7 +1,4 @@
-# Task
-
-## Name
-price-tracker
+# Task: price-tracker
 
 ## Description
-Realtime price tracking task.
+Complete the implementation for price-tracker

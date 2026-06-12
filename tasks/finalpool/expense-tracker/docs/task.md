@@ -1,7 +1,4 @@
-# Task
-
-## Name
-expense-tracker
+# Task: expense-tracker
 
 ## Description
-Personal expense tracking task.
+Complete the implementation for expense-tracker

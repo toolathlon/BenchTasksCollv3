@@ -1,4 +1,1 @@
-# User System Prompt
-
-## User Persona
-Please verify the task completion.
+This is an user system prompt for expense-tracker
