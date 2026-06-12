@@ -1,7 +1,12 @@
-def evaluate():
-    # Evaluate task-scheduler implementation
-    print("Checking task-scheduler implementation...")
+# Evaluation script for task-scheduler
+
+def run_evaluation():
+    # TODO: Implement actual evaluation logic
     return True
 
-if __name__ == "__main__":
-    evaluate()
+if __name__ == '__main__':
+    result = run_evaluation()
+    if result:
+        print('Evaluation passed')
+    else:
+        print('Evaluation failed')

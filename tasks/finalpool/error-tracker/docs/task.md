@@ -1,7 +1,4 @@
-# Task
-
-## Name
-error-tracker
+# Task: error-tracker
 
 ## Description
-Error tracking task.
+Complete the implementation for error-tracker

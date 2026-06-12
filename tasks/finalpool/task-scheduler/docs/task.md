@@ -1,7 +1,4 @@
-# Task
-
-## Name
-task-scheduler
+# Task: task-scheduler
 
 ## Description
-Task scheduling task.
+Complete the implementation for task-scheduler
