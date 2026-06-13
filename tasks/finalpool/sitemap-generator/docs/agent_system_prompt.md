@@ -1,3 +1,4 @@
-# sitemap-generator
+# Agent System Prompt
 
-Please complete the implementation for sitemap-generator
+## General Requirements
+Please complete the implementation for sitemap-generator in a beautiful way!
