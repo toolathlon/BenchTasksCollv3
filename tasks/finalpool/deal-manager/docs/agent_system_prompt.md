@@ -1,3 +1,4 @@
-# deal-manager
+# Agent System Prompt
 
-Please complete the implementation for deal-manager
+## General Requirements
+Please complete the implementation for deal-manager in a beautiful way!

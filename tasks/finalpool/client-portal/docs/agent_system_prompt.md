@@ -1,3 +1,4 @@
-# client-portal
+# Agent System Prompt
 
-Please complete the implementation for client-portal
+## General Requirements
+Please complete the implementation for client-portal in a beautiful way!
