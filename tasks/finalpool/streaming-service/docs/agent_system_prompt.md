@@ -1,3 +1,4 @@
-# streaming-service
+# Agent System Prompt
 
-Please complete the implementation for streaming-service
+## General Requirements
+Please complete the implementation for streaming-service in a beautiful way!

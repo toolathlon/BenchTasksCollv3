@@ -1,3 +1,4 @@
-# media-organizer
+# Agent System Prompt
 
-Please complete the implementation for media-organizer
+## General Requirements
+Please complete the implementation for media-organizer in a beautiful way!
