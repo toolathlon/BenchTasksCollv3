@@ -1,4 +1,3 @@
-# Agent System Prompt
+# tag-manager
 
-## General Requirements
-Please complete the implementation for tag-manager in a beautiful way!
+Please complete the implementation for tag-manager
