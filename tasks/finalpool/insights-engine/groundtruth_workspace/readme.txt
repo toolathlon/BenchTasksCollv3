@@ -1,2 +1,1 @@
-Groundtruth data for insights-engine
-
+Ground truth workspace for evaluation

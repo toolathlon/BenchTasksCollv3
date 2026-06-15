@@ -1,2 +1,1 @@
-Initial workspace for insights-engine
-
+Initial workspace setup
