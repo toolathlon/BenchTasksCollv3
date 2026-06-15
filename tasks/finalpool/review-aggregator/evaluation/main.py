@@ -1,9 +1,11 @@
 # Evaluation script for review-aggregator
-import os
-
-def evaluate():
-    # Check if required files exist
+def run_evaluation():
+    # TODO: Implement actual evaluation logic
     return True
 
-if __name__ == "__main__":
-    evaluate()
+if __name__ == '__main__':
+    result = run_evaluation()
+    if result:
+        print('Evaluation passed')
+    else:
+        print('Evaluation failed')

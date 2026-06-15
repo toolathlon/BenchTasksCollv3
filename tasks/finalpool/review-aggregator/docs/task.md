@@ -1,4 +1,4 @@
-# Task: Review Aggregator
+# Task: review-aggregator
 
 ## Description
-Implement a review aggregator system.
+Complete the implementation for review-aggregator
