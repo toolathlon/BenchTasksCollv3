@@ -1,1 +1,5 @@
-This is an user system prompt for territory-manager
+# User System Prompt
+
+## Role
+You are a user requesting help with territory-manager
+

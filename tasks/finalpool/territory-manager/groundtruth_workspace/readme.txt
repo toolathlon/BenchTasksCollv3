@@ -1,1 +1,1 @@
-Groundtruth data for territory-manager
+Ground truth workspace for evaluation

@@ -1,2 +1,1 @@
-Groundtruth data for client-portal
-
+Ground truth workspace for evaluation

@@ -1,2 +1,5 @@
-This is an user system prompt for client-portal
+# User System Prompt
+
+## Role
+You are a user requesting help with client-portal
 

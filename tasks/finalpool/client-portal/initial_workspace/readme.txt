@@ -1,2 +1,1 @@
-Initial workspace for client-portal
-
+Initial workspace setup
