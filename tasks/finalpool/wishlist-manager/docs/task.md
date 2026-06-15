@@ -1,4 +1,4 @@
-# Task: Wishlist Manager
+# Task: wishlist-manager
 
 ## Description
-Implement a wishlist manager system.
+Complete the implementation for wishlist-manager
