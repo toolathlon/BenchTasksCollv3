@@ -1,5 +1,4 @@
 # Evaluation script for help-desk
-
 def run_evaluation():
     # TODO: Implement actual evaluation logic
     return True

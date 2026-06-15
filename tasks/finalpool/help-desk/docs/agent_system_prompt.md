@@ -1,3 +1,4 @@
-# help-desk
+# Agent System Prompt
 
-Please complete the implementation for help-desk
+## General Requirements
+Please complete the implementation for help-desk in a beautiful way!
