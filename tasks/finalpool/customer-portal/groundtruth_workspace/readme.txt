@@ -1,1 +1,1 @@
-Groundtruth data for customer-portal
+Ground truth workspace for evaluation

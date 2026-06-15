@@ -1,1 +1,5 @@
-This is an user system prompt for help-desk
+# User System Prompt
+
+## Role
+You are a user requesting help with help-desk
+

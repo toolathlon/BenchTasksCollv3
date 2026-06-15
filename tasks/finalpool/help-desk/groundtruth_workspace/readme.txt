@@ -1,1 +1,1 @@
-Groundtruth data for help-desk
+Ground truth workspace for evaluation
