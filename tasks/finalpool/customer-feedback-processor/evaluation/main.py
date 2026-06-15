@@ -1,5 +1,4 @@
 # Evaluation script for customer-feedback-processor
-
 def run_evaluation():
     # TODO: Implement actual evaluation logic
     return True
