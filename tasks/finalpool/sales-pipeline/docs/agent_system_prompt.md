@@ -1,3 +1,4 @@
-# sales-pipeline
+# Agent System Prompt
 
-Please complete the implementation for sales-pipeline
+## General Requirements
+Please complete the implementation for sales-pipeline in a beautiful way!
