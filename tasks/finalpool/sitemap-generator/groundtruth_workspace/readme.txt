@@ -1,1 +1,1 @@
-Groundtruth data for sitemap-generator
+Ground truth workspace for evaluation

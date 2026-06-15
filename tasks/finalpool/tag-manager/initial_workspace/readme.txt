@@ -1,2 +1,1 @@
-Initial workspace for tag-manager
-
+Initial workspace setup

@@ -1,1 +1,1 @@
-Groundtruth data for tag-manager
+Ground truth workspace for evaluation
