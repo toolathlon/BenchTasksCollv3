@@ -1,3 +1,4 @@
-# territory-manager
+# Agent System Prompt
 
-Please complete the implementation for territory-manager
+## General Requirements
+Please complete the implementation for territory-manager in a beautiful way!
