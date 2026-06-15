@@ -1,1 +1,1 @@
-Groundtruth data for media-organizer
+Ground truth workspace for evaluation

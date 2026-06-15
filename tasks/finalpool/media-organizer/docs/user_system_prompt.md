@@ -1,1 +1,5 @@
-This is an user system prompt for media-organizer
+# User System Prompt
+
+## Role
+You are a user requesting help with media-organizer
+
