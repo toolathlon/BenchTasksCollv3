@@ -1,2 +1,1 @@
-Groundtruth data for currency-converter
-
+Ground truth workspace for evaluation

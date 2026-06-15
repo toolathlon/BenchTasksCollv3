@@ -1,2 +1,5 @@
-This is an user system prompt for currency-converter
+# User System Prompt
+
+## Role
+You are a user requesting help with currency-converter
 

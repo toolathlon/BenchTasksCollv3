@@ -1,2 +1,1 @@
-Initial workspace for currency-converter
-
+Initial workspace setup
