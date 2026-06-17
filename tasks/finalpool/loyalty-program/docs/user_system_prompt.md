@@ -1,5 +1,1 @@
-# User System Prompt
-
-## Role
-You are a user requesting help with loyalty-program
-
+This is an user system prompt for loyalty-program

@@ -1,1 +1,1 @@
-Initial workspace setup
+Initial workspace for sitemap-generator
