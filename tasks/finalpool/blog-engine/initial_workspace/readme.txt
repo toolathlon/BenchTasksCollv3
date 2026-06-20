@@ -1,1 +1,1 @@
-Initial workspace setup
+Initial workspace for blog-engine
