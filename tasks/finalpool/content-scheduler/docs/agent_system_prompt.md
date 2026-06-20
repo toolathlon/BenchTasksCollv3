@@ -1,5 +1,4 @@
 # Agent System Prompt
 
 ## General Requirements
-Please complete the implementation for content-scheduler
-
+Please complete the implementation for content-scheduler in a beautiful way!
