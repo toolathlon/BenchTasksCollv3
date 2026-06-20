@@ -1,5 +1,1 @@
-# User System Prompt
-
-## Role
-You are a user requesting help with booking-system
-
+This is an user system prompt for booking-system
