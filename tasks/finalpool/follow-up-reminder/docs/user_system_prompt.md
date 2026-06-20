@@ -1,5 +1,1 @@
-# User System Prompt
-
-## Role
-You are a user requesting help with follow-up-reminder
-
+This is an user system prompt for follow-up-reminder
