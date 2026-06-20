@@ -1,5 +1,1 @@
-# User System Prompt
-
-## Role
-You are a user requesting help with subtitle-generator
-
+This is an user system prompt for subtitle-generator
