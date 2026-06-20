@@ -1,5 +1,1 @@
-# User System Prompt
-
-## Role
-You are a user requesting help with activity-logger
-
+This is an user system prompt for activity-logger

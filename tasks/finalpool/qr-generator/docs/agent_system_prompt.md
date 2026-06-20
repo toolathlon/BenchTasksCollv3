@@ -1,5 +1,4 @@
 # Agent System Prompt
 
 ## General Requirements
-Please complete the implementation for qr-generator
-
+Please complete the implementation for qr-generator in a beautiful way!
