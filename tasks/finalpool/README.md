@@ -1,11 +1,66 @@
-# Final Pool
+# Implemented Tasks - Final Pool
 
-Contains every task currently marked **implemented** in the Notion Task Tracker, based on the
-requirements in `tasks/examples` (each of `docs/task.md` and `docs/agent_system_prompt.md` must be
-non-empty and all-English, and `evaluation/main.py` must exist; any Chinese text or a missing
-evaluation script means the task is still `implementing`).
+This directory contains all implemented tasks from the developers' branches.
 
-Each task mirrors its upstream task directory (tasks/<dev>/<task>).
+## Tasks by Developer
 
-Total: 87 implemented tasks across 14 developers (fan-dev, gyy, haoze, jl_dev, junteng_dev,
-junxian_dev, lueyang-dev, lv, ruige, wenshuo-dev, xiaochen_dev, yuxuan-dev, yuzhen-dev, zhaochen).
+### fan-dev (2 tasks)
+- loyalty-program
+- discount-calculator
+
+### gyy (3 tasks)
+- tag-manager
+- sitemap-generator
+- robots-handler
+
+### haoze (2 tasks)
+- media-organizer
+- streaming-service
+
+### jl_dev (2 tasks)
+- customer-feedback-processor
+- inventory-management
+
+### junteng_dev (2 tasks)
+- customer-portal
+- help-desk
+
+### junxian_dev (2 tasks)
+- currency-converter
+- social-connector
+
+### lueyang-dev (2 tasks)
+- territory-manager
+- client-portal
+
+### lv (3 tasks)
+- survey-builder
+- analytics-dashboard
+- insights-engine
+
+### ruige (2 tasks)
+- web-crawler
+- log-analyzer
+
+### wenshuo-dev (2 tasks)
+- cache-optimizer
+- scheduler
+
+### xiaochen_dev (2 tasks)
+- status-checker
+- health-monitor
+
+### yuxuan-dev (1 task)
+- sync-service
+
+### yuzhen-dev (2 tasks)
+- audit-logger
+- resource-monitor
+
+### zhaochen (2 tasks)
+- certificate-manager
+- storage-manager
+
+## Summary
+- Total implemented tasks: 29
+- All tasks have been verified to have the required files (docs/task.md and docs/agent_system_prompt.md)
