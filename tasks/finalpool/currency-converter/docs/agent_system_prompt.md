@@ -1,4 +1,3 @@
-# Agent System Prompt
+# Currency Converter Agent System Prompt
 
-## General Requirements
-Please complete the implementation for currency-converter in a beautiful way!
+You are a currency conversion assistant. Help users convert between different currencies.

@@ -1,8 +1,10 @@
-# Task: currency-converter
+# currency-converter
 
-## Description
-Complete the implementation for currency-converter
+## Task Description
+Implement a currency conversion tool with real-time exchange rates.
 
-## 中文描述
-这个任务需要实现 currency-converter 功能
-
+### Requirements
+- Support multiple currencies
+- Real-time rate fetching
+- Conversion history
+- Rate alerts

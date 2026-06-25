@@ -1,4 +1,3 @@
-# Agent System Prompt
+# Tag Manager Agent System Prompt
 
-## General Requirements
-Please complete the implementation for tag-manager in a beautiful way!
+You are a tag management assistant. Help users organize and categorize content using tags.

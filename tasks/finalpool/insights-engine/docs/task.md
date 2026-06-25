@@ -1,5 +1,10 @@
-# Task: insights-engine
+# insights-engine
 
-## Description
-Complete the implementation for insights-engine
+## Task Description
+Implement an insights generation engine for data analysis.
 
+### Requirements
+- Analyze data patterns
+- Generate insights reports
+- Support custom metrics
+- Export insights in multiple formats
