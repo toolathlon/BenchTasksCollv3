@@ -1,1 +1,1 @@
-This is an user system prompt for scheduler
+user system prompt
