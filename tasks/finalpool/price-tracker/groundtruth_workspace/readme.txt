@@ -1,1 +1,1 @@
-Groundtruth data for price-tracker
+Groundtruth workspace for price-tracker
