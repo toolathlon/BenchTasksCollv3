@@ -1,1 +1,1 @@
-readme
+Groundtruth data for streaming-service
