@@ -1,1 +1,1 @@
-readme
+Groundtruth data for media-organizer

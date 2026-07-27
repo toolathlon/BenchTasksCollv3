@@ -6,4 +6,7 @@ def run_evaluation():
 
 if __name__ == '__main__':
     result = run_evaluation()
-    print("Evaluation result:", result)
+    if result:
+        print('Evaluation passed')
+    else:
+        print('Evaluation failed')
