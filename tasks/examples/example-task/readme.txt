@@ -1,2 +1,0 @@
-You can find the requirements for each files/folders in this example task.
-For `task_config.json`, it must have a non empty "needed_mcp_servers" field and a non empty "needed_local_tools" with "claim_done" in it.
