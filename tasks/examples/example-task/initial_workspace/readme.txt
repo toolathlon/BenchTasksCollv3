@@ -1,1 +1,0 @@
-the `initial_workspace` folder is optional, the preprocessing can be all done in preprocess/main.py if you want
