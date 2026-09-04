@@ -1,1 +1,1 @@
-Groundtruth data for media-organizer
+Groundtruth data for streaming-service
