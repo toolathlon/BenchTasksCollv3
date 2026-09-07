@@ -9,9 +9,13 @@ Tasks that satisfy the requirements defined in `tasks/examples/example-task`:
 - `initial_workspace/`
 - `groundtruth_workspace/`
 
-27 tasks are currently implemented in this pool (5 + 22).
+## Review performed
 
-## Batch 1 (pre-existing, 5 tasks)
+All 14 developer branches of `BenchTasksCollv3` were reviewed at their **most recent
+commit**. Those commits touched 28 task folders: 22 of them satisfy every
+requirement above (implemented), 6 do not yet (implementing).
+
+## Already in the pool before this review (5 tasks)
 
 - price-tracker (fan-dev)
 - shipment-tracker (junteng_dev)
@@ -19,7 +23,10 @@ Tasks that satisfy the requirements defined in `tasks/examples/example-task`:
 - error-tracker (xiaochen_dev)
 - task-scheduler (yuxuan-dev)
 
-## Batch 2 (reviewed this run from the most recent commit of each developer branch, 22 tasks)
+One further task, `storage-manager` (zhaochen), was already present in the pool,
+so 22 tasks were added by this review - 27 implemented tasks in total.
+
+## Implemented (22 tasks added by this review)
 
 - loyalty-program (fan-dev)
 - discount-calculator (fan-dev)
@@ -43,14 +50,8 @@ Tasks that satisfy the requirements defined in `tasks/examples/example-task`:
 - health-monitor (xiaochen_dev)
 - sync-service (yuxuan-dev)
 - certificate-manager (zhaochen)
-- storage-manager (zhaochen)
 
-## Review scope
-
-All 14 developer branches at their most recent commit: 28 new task folders were
-found, 22 of them implemented (listed above) and 6 still implementing.
-
-## Still implementing (6 tasks)
+## Still implementing (6 tasks - not added by this review)
 
 - currency-converter (junxian_dev) - docs/task.md contains Chinese
 - territory-manager (lueyang-dev) - missing preprocess/main.py
@@ -61,4 +62,5 @@ found, 22 of them implemented (listed above) and 6 still implementing.
 
 ## Tracking
 
-The same status is mirrored on the Notion `Task Tracker` page.
+Every one of the 28 reviewed tasks is recorded on the Notion `Task Tracker` page
+as `<task name> | <implementor> | <status>`.
