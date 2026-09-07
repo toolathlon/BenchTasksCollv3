@@ -1,0 +1,9 @@
+{
+  "task_name": "price-tracker",
+  "needed_mcp_servers": [
+    "github"
+  ],
+  "needed_local_tools": [
+    "claim_done"
+  ]
+}

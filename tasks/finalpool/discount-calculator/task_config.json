@@ -1,0 +1,9 @@
+{
+  "task_name": "discount-calculator",
+  "needed_mcp_servers": [
+    "github"
+  ],
+  "needed_local_tools": [
+    "claim_done"
+  ]
+}
