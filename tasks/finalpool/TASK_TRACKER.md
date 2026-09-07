@@ -9,7 +9,7 @@ Tasks that satisfy the requirements defined in `tasks/examples/example-task`:
 - `initial_workspace/`
 - `groundtruth_workspace/`
 
-## Batch 1 (pre-existing)
+## Batch 1 (pre-existing, 5 tasks)
 
 - price-tracker (fan-dev)
 - shipment-tracker (junteng_dev)
@@ -17,7 +17,7 @@ Tasks that satisfy the requirements defined in `tasks/examples/example-task`:
 - error-tracker (xiaochen_dev)
 - task-scheduler (yuxuan-dev)
 
-## Batch 2 (this run - 22 implemented tasks)
+## Batch 2 (newly verified implemented, 22 tasks)
 
 - loyalty-program (fan-dev)
 - discount-calculator (fan-dev)
@@ -43,7 +43,7 @@ Tasks that satisfy the requirements defined in `tasks/examples/example-task`:
 - certificate-manager (zhaochen)
 - storage-manager (zhaochen)
 
-## Still implementing (not in finalpool; fixed copies are kept here)
+## Still implementing (6 tasks, kept out of the finalpool list above)
 
 - currency-converter (junxian_dev) - docs/task.md contains Chinese
 - territory-manager (lueyang-dev) - missing preprocess/main.py
@@ -51,3 +51,5 @@ Tasks that satisfy the requirements defined in `tasks/examples/example-task`:
 - insights-engine (lv) - agent_system_prompt.md contains Chinese
 - audit-logger (yuzhen-dev) - agent_system_prompt.md contains Chinese
 - resource-monitor (yuzhen-dev) - agent_system_prompt.md contains Chinese
+
+Total implemented in finalpool: 27
