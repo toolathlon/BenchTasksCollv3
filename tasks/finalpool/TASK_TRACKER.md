@@ -9,6 +9,8 @@ Tasks that satisfy the requirements defined in `tasks/examples/example-task`:
 - `initial_workspace/`
 - `groundtruth_workspace/`
 
+27 tasks are currently implemented in this pool (5 + 22).
+
 ## Batch 1 (pre-existing, 5 tasks)
 
 - price-tracker (fan-dev)
@@ -17,7 +19,7 @@ Tasks that satisfy the requirements defined in `tasks/examples/example-task`:
 - error-tracker (xiaochen_dev)
 - task-scheduler (yuxuan-dev)
 
-## Batch 2 (newly verified implemented, 22 tasks)
+## Batch 2 (reviewed this run from the most recent commit of each developer branch, 22 tasks)
 
 - loyalty-program (fan-dev)
 - discount-calculator (fan-dev)
@@ -43,7 +45,12 @@ Tasks that satisfy the requirements defined in `tasks/examples/example-task`:
 - certificate-manager (zhaochen)
 - storage-manager (zhaochen)
 
-## Still implementing (6 tasks, kept out of the finalpool list above)
+## Review scope
+
+All 14 developer branches at their most recent commit: 28 new task folders were
+found, 22 of them implemented (listed above) and 6 still implementing.
+
+## Still implementing (6 tasks)
 
 - currency-converter (junxian_dev) - docs/task.md contains Chinese
 - territory-manager (lueyang-dev) - missing preprocess/main.py
@@ -52,4 +59,6 @@ Tasks that satisfy the requirements defined in `tasks/examples/example-task`:
 - audit-logger (yuzhen-dev) - agent_system_prompt.md contains Chinese
 - resource-monitor (yuzhen-dev) - agent_system_prompt.md contains Chinese
 
-Total implemented in finalpool: 27
+## Tracking
+
+The same status is mirrored on the Notion `Task Tracker` page.
